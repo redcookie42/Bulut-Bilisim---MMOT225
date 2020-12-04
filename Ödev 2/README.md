@@ -1,0 +1,1 @@
+# MMOT225 Bulut Bilişim Ödev 2
